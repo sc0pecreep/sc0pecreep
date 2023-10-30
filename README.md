@@ -3,6 +3,7 @@
 <!--
 **sc0pecreep/sc0pecreep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```mermaid
+pie title 
+    "caffeine" : 186
+    "nicotine" : 80
+    "water" : 30
+    "doom metal" : 86
+```
+
+> I tend to work in private, but I'm open to help with things
