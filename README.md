@@ -25,3 +25,26 @@ pie title
 ```
 
 > I tend to work in private, but I'm open to help with things
+
+<details>
+
+<summary>current focus</summary>
+
+### languages
+
+- typescript
+- javascript
+- golang
+- python
+
+### subjects
+
+- tooling
+- automation
+- reinforcement learning
+- servers
+- clients
+- communication
+- ci/cd
+
+</details>
